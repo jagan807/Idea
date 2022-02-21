@@ -1,1 +1,2 @@
 Hai this is a new repositry
+how to change file in git hub
