@@ -1,2 +1,4 @@
 Hai this is a new repositry
 how to change file in git hub
+actually testingfile2 missing 
+so now changing modifications
