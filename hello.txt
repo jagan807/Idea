@@ -1,2 +1,4 @@
 hai friends
 wellcome to Git class
+today adding new line for checking purpose
+today date is 24/2/2022
